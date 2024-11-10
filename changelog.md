@@ -4,14 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres
 to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) (after version 0.0.5).
 
+## [0.11.1] - 2024-12-18
+### Added
+- new `--outputMode` option ([PR #63](https://github.com/KarnerTh/mermerd/pull/63))
+
 ## [0.11.0] - 2024-06-16
 ### Added
 - new `--ignoreTables` option ([PR #59](https://github.com/KarnerTh/mermerd/pull/59))
 
 ### Changed
 - go 1.22 is now used
-
-### Fixed
 
 ## [0.10.0] - 2023-11-21
 ### Added
@@ -154,6 +156,10 @@ by `--showDescriptions enumValues` (for details see [PR #32](https://github.com/
 ## [0.0.1] - 2022-01-17
 ### Added
 - Initial release of mermerd
+
+[0.11.1]: https://github.com/cpkurotori/mermerd/releases/tag/v0.11.1
+
+[0.11.0]: https://github.com/KarnerTh/mermerd/releases/tag/v0.11.0
 
 [0.10.0]: https://github.com/KarnerTh/mermerd/releases/tag/v0.10.0
 
