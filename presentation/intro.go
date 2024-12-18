@@ -3,7 +3,7 @@ package presentation
 import (
 	"fmt"
 
-	"github.com/KarnerTh/mermerd/config"
+	"github.com/cpkurotori/mermerd/config"
 	"github.com/fatih/color"
 	"github.com/spf13/viper"
 )

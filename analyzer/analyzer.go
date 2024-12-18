@@ -8,10 +8,10 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/KarnerTh/mermerd/config"
-	"github.com/KarnerTh/mermerd/database"
-	"github.com/KarnerTh/mermerd/presentation"
-	"github.com/KarnerTh/mermerd/util"
+	"github.com/cpkurotori/mermerd/config"
+	"github.com/cpkurotori/mermerd/database"
+	"github.com/cpkurotori/mermerd/presentation"
+	"github.com/cpkurotori/mermerd/util"
 )
 
 type analyzer struct {

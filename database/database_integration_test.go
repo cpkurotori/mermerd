@@ -261,7 +261,7 @@ func TestDatabaseIntegrations(t *testing.T) {
 					}
 				})
 
-				// Multiple primary keys (https://github.com/KarnerTh/mermerd/issues/8)
+				// Multiple primary keys (https://github.com/cpkurotori/mermerd/issues/8)
 				t.Run("Multiple primary keys (Issue #8)", func(t *testing.T) {
 					// Arrange
 					pkTableName := TableDetail{Schema: testCase.schema, Name: "test_1_b"}

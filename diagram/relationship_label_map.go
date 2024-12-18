@@ -3,7 +3,7 @@ package diagram
 import (
 	"fmt"
 
-	"github.com/KarnerTh/mermerd/config"
+	"github.com/cpkurotori/mermerd/config"
 )
 
 type RelationshipLabelMap interface {

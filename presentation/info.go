@@ -1,7 +1,7 @@
 package presentation
 
 import (
-	"github.com/KarnerTh/mermerd/config"
+	"github.com/cpkurotori/mermerd/config"
 	"github.com/fatih/color"
 )
 

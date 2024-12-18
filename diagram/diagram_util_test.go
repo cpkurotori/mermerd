@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/KarnerTh/mermerd/config"
-	"github.com/KarnerTh/mermerd/database"
-	"github.com/KarnerTh/mermerd/mocks"
+	"github.com/cpkurotori/mermerd/config"
+	"github.com/cpkurotori/mermerd/database"
+	"github.com/cpkurotori/mermerd/mocks"
 )
 
 func TestGetRelation(t *testing.T) {

@@ -3,8 +3,8 @@ package diagram_test
 import (
 	"testing"
 
-	"github.com/KarnerTh/mermerd/config"
-	"github.com/KarnerTh/mermerd/diagram"
+	"github.com/cpkurotori/mermerd/config"
+	"github.com/cpkurotori/mermerd/diagram"
 	"github.com/stretchr/testify/assert"
 )
 

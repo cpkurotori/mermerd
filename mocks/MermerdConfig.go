@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	config "github.com/KarnerTh/mermerd/config"
+	config "github.com/cpkurotori/mermerd/config"
 	mock "github.com/stretchr/testify/mock"
 )
 

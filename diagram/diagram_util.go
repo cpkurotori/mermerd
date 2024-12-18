@@ -6,8 +6,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/KarnerTh/mermerd/config"
-	"github.com/KarnerTh/mermerd/database"
+	"github.com/cpkurotori/mermerd/config"
+	"github.com/cpkurotori/mermerd/database"
 )
 
 func getRelation(constraint database.ConstraintResult) ErdRelationType {
